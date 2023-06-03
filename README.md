@@ -7,3 +7,15 @@ A very cool code tricks that you should know in Python:
 5. Lambda Function
 6. Decorator
 7. Unpacking
+8. Zip and Enumerate
+9. Generator
+10. Unicode Characters
+11. Multiple Function Arguments
+12. String Formatting
+13. Argument Unpacking
+14. Keyword Argument Unpacking
+15. Method Chaining
+16. Exception Handling
+17. Context Manager
+18. Abstract Base Classes
+19. Asyncio
