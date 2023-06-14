@@ -14,5 +14,3 @@ A very cool code tricks that you should know in Python:
 12. String Formatting
 13. Argument Unpacking
 14. Keyword Argument Unpacking
-15. Method Chaining
-
