@@ -16,3 +16,7 @@ A very cool code tricks that you should know in Python:
 14. Keyword Argument Unpacking
 15. Method Chaining
 16. Exception Handling
+17. Context Manager
+18. Abstract Base Classes
+19. Asyncio
+
