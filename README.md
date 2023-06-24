@@ -18,5 +18,9 @@ A very cool code tricks that you should know in Python:
 16. Exception Handling
 17. Context Manager
 18. Abstract Base Classes
-19. Asyncio
+19. Asynchronous
+20. Type Hints
+21. Counter
+22. Defaultdict
+23. An enumeration
 
