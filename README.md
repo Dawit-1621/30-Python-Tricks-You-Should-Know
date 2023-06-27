@@ -21,6 +21,4 @@ Python coding skills have grown in demand in recent years. To aid you in develop
 19. Asynchronous
 20. Type Hints
 21. Counter
-22. Defaultdict
-23. An enumeration
 
