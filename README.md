@@ -19,3 +19,6 @@ Python coding skills have grown in demand in recent years. To aid you in develop
 17. Context Manager
 18. Abstract Base Classes
 19. Asyncio
+20. Type Hints
+21. Counter
+22. Defaultdict
