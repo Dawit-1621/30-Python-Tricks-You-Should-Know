@@ -23,4 +23,4 @@ Python coding skills have grown in demand in recent years. To aid you in develop
 21. Counter
 22. Defaultdict
 23. Enum
-24. 
+24. Named Tuple
