@@ -4,7 +4,7 @@ Python coding skills have grown in demand in recent years. To aid you in develop
 2. Comprehension
    2.1 ist Comprehension
    2.2 Dictionary Comprehension
-5. Set Comprehension
+   2.3 Set Comprehension
 6. Lambda Function
 7. Decorator
 8. Unpacking
