@@ -3,7 +3,7 @@ Python coding skills have grown in demand in recent years. To aid you in develop
 1. Ternary Operator Conditional Expression
 2. Comprehension
    2.1 ist Comprehension
-4. Dictionary Comprehension
+   2.2 Dictionary Comprehension
 5. Set Comprehension
 6. Lambda Function
 7. Decorator
