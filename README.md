@@ -30,4 +30,3 @@ Python coding skills have grown in demand in recent years. To aid you in develop
 28. Deque
 29. Slice
 30. Set
-31. Frozenset
