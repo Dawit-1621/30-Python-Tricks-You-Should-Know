@@ -26,8 +26,6 @@ Python coding skills have grown in demand in recent years. To aid you in develop
 24. Enum
 25. Named Tuple
 26. OrderedDict
-
-27. 
 28. ChainMap
 29. Deque
 30. Slice
