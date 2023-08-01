@@ -29,3 +29,4 @@ Python coding skills have grown in demand in recent years. To aid you in develop
 28. ChainMap
 29. Deque
 30. Slice
+31. 
