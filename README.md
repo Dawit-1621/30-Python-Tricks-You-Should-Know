@@ -9,8 +9,8 @@ Python coding skills have grown in demand in recent years. To aid you in develop
 4. Decorator
 5. Unpacking
 6. Zip and Enumerate
-10. Generator
-11. Unicode Characters
+7. Generator
+8.  Unicode Characters
 12. Multiple Function Arguments
 13. String Formatting
 14. Argument Unpacking
