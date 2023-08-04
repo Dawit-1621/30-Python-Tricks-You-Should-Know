@@ -12,7 +12,7 @@ Python coding skills have grown in demand in recent years. To aid you in develop
 7. Generator
 8.  Unicode Characters
 9. Multiple Function Arguments
-13. String Formatting
+10. String Formatting
 14. Argument Unpacking
 15. Keyword Argument Unpacking
 16. Method Chaining
