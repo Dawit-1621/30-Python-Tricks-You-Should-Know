@@ -7,8 +7,8 @@ Python coding skills have grown in demand in recent years. To aid you in develop
    2.3 Set Comprehension
 3. Lambda Function
 4. Decorator
-8. Unpacking
-9. Zip and Enumerate
+5. Unpacking
+6. Zip and Enumerate
 10. Generator
 11. Unicode Characters
 12. Multiple Function Arguments
