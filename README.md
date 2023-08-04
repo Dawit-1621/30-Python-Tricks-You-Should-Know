@@ -5,8 +5,8 @@ Python coding skills have grown in demand in recent years. To aid you in develop
    2.1 List Comprehension </br>
    2.2 Dictionary Comprehension </br>
    2.3 Set Comprehension
-6. Lambda Function
-7. Decorator
+3. Lambda Function
+4. Decorator
 8. Unpacking
 9. Zip and Enumerate
 10. Generator
