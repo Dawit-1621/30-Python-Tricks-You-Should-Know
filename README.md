@@ -25,4 +25,3 @@ Set Comprehension
 24. Enum
 25. Named Tuple
 26. OrderedDict
-28. ChainMap
