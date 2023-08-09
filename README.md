@@ -22,4 +22,3 @@ Set Comprehension
 21. Type Hints
 22. Counter
 23. Defaultdict
-24. Enum
