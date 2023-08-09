@@ -26,4 +26,3 @@ Set Comprehension
 25. Named Tuple
 26. OrderedDict
 28. ChainMap
-29. Deque
