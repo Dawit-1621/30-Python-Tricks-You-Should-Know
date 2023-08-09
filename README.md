@@ -23,4 +23,3 @@ Set Comprehension
 22. Counter
 23. Defaultdict
 24. Enum
-25. Named Tuple
