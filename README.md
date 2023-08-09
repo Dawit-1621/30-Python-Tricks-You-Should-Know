@@ -2,17 +2,17 @@
 Python coding skills have grown in demand in recent years. To aid you in developing your Python programming skills, we have curated 30 cool Python tricks you could use to improve your code.  A very cool code tricks that you should know in Python:-
 1. Ternary Operator Conditional Expression
 2. List Comprehension
-   2.2 Dictionary Comprehension </br>
+3. Dictionary Comprehension </br>
    2.3 Set Comprehension
-3. Lambda Function
-4. Decorator
-5. Unpacking
-6. Zip and Enumerate
-7. Generator
-8.  Unicode Characters
-9. Multiple Function Arguments
-10. String Formatting
-11. Argument Unpacking
+4. Lambda Function
+5. Decorator
+6. Unpacking
+7. Zip and Enumerate
+8. Generator
+9.  Unicode Characters
+10. Multiple Function Arguments
+11. String Formatting
+12. Argument Unpacking
 15. Keyword Argument Unpacking
 16. Method Chaining
 17. Exception Handling
