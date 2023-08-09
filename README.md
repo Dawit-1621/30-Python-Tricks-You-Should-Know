@@ -24,4 +24,3 @@ Set Comprehension
 23. Defaultdict
 24. Enum
 25. Named Tuple
-26. OrderedDict
